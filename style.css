@@ -1,3 +1,7 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inika:wght@400;700&family=Righteous&display=swap');
+
+
 body{
     background-color: black;
     font-family: 'Courier New', Courier, monospace;
@@ -6,10 +10,17 @@ body{
 h1{
     text-align: center;
     color: aliceblue;
+    font-family: 'Righteous', cursive;
+    font-size: 5rem;
+    margin: 2rem;
 }
 
-li{
+ol{
     color: azure;
+    font-family: 'Inika', serif;
+    display: inline-block;
+    text-align: center;
+    font-size: 2rem;
 }
 
 a{
@@ -19,4 +30,5 @@ a{
 
 div.project_links{
     text-align: center;
+    margin: 2rem;
 }
