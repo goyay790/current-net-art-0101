@@ -5,14 +5,13 @@ body{
 
 h1{
     text-align: center;
-    color: azure;
+    color: aliceblue;
 }
 
 ol{
-    color:aliceblue;
-    
+    color: azure;
 }
 
-div.list_contain{
+div.project_links{
     text-align: center;
 }
