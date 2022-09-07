@@ -8,8 +8,13 @@ h1{
     color: aliceblue;
 }
 
-ol{
+li{
     color: azure;
+}
+
+a{
+    color: azure;
+    text-decoration: none;
 }
 
 div.project_links{
