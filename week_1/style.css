@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    text-align: center;
+    color: azure;
+}
+ol{
+    color:aliceblue;
+    text-align: center;
+}
+li{
+    color: aliceblue;
+    text-align: center;
+}
