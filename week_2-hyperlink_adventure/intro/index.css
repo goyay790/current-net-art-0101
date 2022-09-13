@@ -15,6 +15,7 @@ h1{
 #begin_button{
     width: 10vw;
     height: 5vh;
+    position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
