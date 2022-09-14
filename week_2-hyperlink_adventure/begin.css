@@ -35,7 +35,7 @@ h1{
 }
 
 p{
-    font-size: 3rem;
+    font-size: 2rem;
     text-align: center;
     font-family: 'Cairo Play', cursive;
     color: black;
@@ -45,7 +45,7 @@ p:hover{
     color: azure;
 }
 a{
-    font-size: 3rem;
+    font-size: 2rem;
     text-decoration: none;
     text-align: center;
     font-family: 'Josefin Sans', sans-serif;
