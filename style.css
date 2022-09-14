@@ -4,23 +4,23 @@
 
 body{
     background-color: black;
-    font-family: 'Courier New', Courier, monospace;
 }
 
 h1{
     text-align: center;
     color: aliceblue;
     font-family: 'Righteous', cursive;
-    font-size: 5rem;
+    font-size: 6rem;
     margin: 2rem;
 }
 
-ol{
+ul{
     color: azure;
-    font-family: 'Inika', serif;
+    font-family: 'Courier New', Courier, monospace;
     display: inline-block;
     text-align: center;
-    font-size: 2rem;
+    font-size: 4rem;
+    list-style-type: none;
 }
 
 a{
