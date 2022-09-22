@@ -1,0 +1,45 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 5rem;
+}
+
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3rem;
+    margin: 1rem;
+}
+
+.banner{
+    width: 100%;
+    text-align: center;
+    vertical-align: center;
+    margin: 2rem 0;
+    padding: 2rem;
+    background-color: green;
+}
+
+.box_container{
+    display: flex;
+    flex-flow: row wrap-reverse;
+    justify-content: space-evenly safe;
+    align-items: center;
+    align-content: space-between safe;
+
+}
+
+.box_contain{
+    width: 20%;
+    padding: 1% 1.5% 0%;
+    margin: 1%;
+    background-color: blue;
+    text-align: center;
+}
+
+#one:hover{
+    background-color: red;
+}
