@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+    color: whitesmoke;
+}
+
+.frame{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
+.component{
+    border: 8px;
+    border-color: whitesmoke;
+    border-style: solid;
+}
+
+.label{
+    width: auto;
+    position: absolute;
+    top: 1%;
+    left: 1%;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.player-body{
+    width: 20%;
+    height: 30%;
+    position: absolute;
+    top: 35%;
+    left: 40%;
+
+}
+
